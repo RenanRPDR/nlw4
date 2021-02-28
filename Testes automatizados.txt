@@ -1,0 +1,10 @@
+Testes automatizados
+
+1 - Testes unitarios (testa a funcao de forma especifica, sem acessar o banco ou uma API)
+
+2 - Testes de integracao (testa a funcionalidade completa da nossa aplicacao)
+
+  -> routes -> controller -> repository
+  <- repository <- controller <- response
+
+3 - Ponta a Ponta (E2E) Mais utilizado no frontend.
